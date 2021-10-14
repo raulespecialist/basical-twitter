@@ -38,4 +38,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-**Now the project run on http://127.0.0.1:8000/  or API directly http://127.0.0.1:8000/api/twitter/ **
+**Now the project run on http://127.0.0.1:8000/  or API directly http://127.0.0.1:8000/api/twitter/** :snake: :computer:
